@@ -32,4 +32,4 @@ This project focuses on clean UI design, responsive layouts, and reusable React 
 ---
 
 ## Waka time
-![WakaTime Stats]()
+![WakaTime Stats](https://github.com/Akshita-2307/React-Project/blob/main/src/assets/Waka%20Time.jpeg)
