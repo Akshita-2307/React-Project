@@ -11,7 +11,7 @@ function Services() {
         <div style={{ fontFamily: "'Inter', sans-serif", backgroundColor: '#F8FAFC' }}>
             <nav style={{ width: '100%' }}>
                 <div style={{ width: '100%', height: '80px', border: '1px solid black', display: 'flex', justifyContent: 'space-between' }}>
-                    <div style={{ fontWeight: 'bold', paddingLeft: '32px', paddingTop: '30px', paddingBottom: '32px', paddingRight: '35.97px', fontSize: 'medium' }}>PRESICION</div>
+                    <div style={{ fontWeight: 'bold', paddingLeft: '32px', paddingTop: '30px', paddingBottom: '32px', paddingRight: '35.97px', fontSize: 'medium' }}>PRECISION</div>
                     <div style={{ display: 'flex', paddingTop: '30px', gap: '40px' }}>
                         <Link to="/services" style={{ textDecoration: 'none', color: 'gray', fontWeight: 'bold' }}>Services</Link>
                         <Link to="/casestudy" style={{ textDecoration: 'none', color: 'gray', fontWeight: 'bold' }}>Case Study</Link>
