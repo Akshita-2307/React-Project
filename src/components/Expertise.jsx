@@ -10,7 +10,7 @@ function Expertise() {
             <div style={{ width: '1395px', height: '725px' }}>
 
                 <div style={{ width: '100%', height: '80px', color: 'gray', marginBottom: '40px' }}>
-                    <div>EXPERTIES</div>
+                    <div>EXPERTISE</div>
                     <div style={{ display: 'flex', justifyContent: 'space-between', paddingTop: '20px' }}>
                         <h1 style={{ color: 'black', fontSize: '40px' }}>The Precision Toolkit</h1>
                         <div>
